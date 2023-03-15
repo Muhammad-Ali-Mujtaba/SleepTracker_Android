@@ -42,7 +42,7 @@ class SleepQualityViewModel(
 
         uiScope.launch {
             withContext(Dispatchers.IO){
-                val tonight = database.getParticularNight(sleepNightKey) ?: return@withContext
+                val tonight = database.get(sleepNightKey) ?: return@withContext
                 tonight.sleep_quality = quality
                 database.updateSleepNight(tonight)
             }

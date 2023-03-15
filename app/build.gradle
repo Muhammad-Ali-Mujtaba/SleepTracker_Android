@@ -52,6 +52,7 @@ dependencies {
 
     // Support libraries
     implementation "androidx.constraintlayout:constraintlayout:$version_constraint_layout"
+    implementation "androidx.recyclerview:recyclerview:1.2.1"
 
     // Android KTX
     implementation "androidx.core:core-ktx:$version_core"
@@ -74,7 +75,6 @@ dependencies {
 
     // Kotlin Extensions and Coroutines support for Room
     implementation "androidx.room:room-ktx:$version_room"
-
 
     // Testing
     testImplementation 'junit:junit:4.12'
