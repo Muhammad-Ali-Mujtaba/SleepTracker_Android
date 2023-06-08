@@ -9,10 +9,7 @@ It implements coroutines for the database operations and also uses ViewModels, D
 
 ## Screenshots
 
-![Screenshot4](screenshots/Screenshot_4.png)
-![Screenshot5](screenshots/Screenshot_5.png)
-![Screenshot6](screenshots/Screenshot_6.png)
-![Screenshot1](screenshots/sleep_quality_tracker_start.png)
-![Screenshot2](screenshots/sleep_quality_tracker_stop.png)
-![Screenshot3](screenshots/sleep_quality_tracker_quality.png)
+![Screenshot1](screenshots/Screenshot_1.png) ![Screenshot2](screenshots/Screenshot_2.png)
+![Screenshot3](screenshots/Screenshot_3.png) ![Screenshot4](screenshots/Screenshot_4.png)
+![Screenshot5](screenshots/Screenshot_5.png) ![Screenshot6](screenshots/Screenshot_6.png)
 
